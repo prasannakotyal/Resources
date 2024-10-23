@@ -25,10 +25,5 @@ We welcome contributions from the community to expand and improve this resource 
 
 ---
 
-## 📜 License
-This project is licensed under the MIT License. Please see the [LICENSE](LICENSE) file for more details.
-
----
-
 ## 📧 Contact
 Have questions, suggestions, or want to collaborate? Feel free to reach out! Let's build this resource collection together.
